@@ -24,7 +24,7 @@ This is a course design from Design &amp; Bulid II (Fourth Semester) and I am th
 图1 总体功能图
 </p>  
 
-![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/decomposition.jpg)  
+![iamge](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft/blob/main/decomposition.png)  
 
 <p align="center">
 图2 功能分解图
